@@ -1,0 +1,47 @@
+{
+  "coord": {
+    "lon": 135.0719,
+    "lat": 48.4802
+  },
+  "weather": [
+    {
+      "id": 600,
+      "main": "Snow",
+      "description": "небольшой снег",
+      "icon": "13d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": -4.54,
+    "feels_like": -9.88,
+    "temp_min": -4.54,
+    "temp_max": -4.06,
+    "pressure": 1007,
+    "humidity": 92
+  },
+  "visibility": 4500,
+  "wind": {
+    "speed": 4.02,
+    "deg": 350,
+    "gust": 0
+  },
+  "snow": {
+    "1h": 0.4
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1677566709,
+  "sys": {
+    "type": 2,
+    "id": 49566,
+    "country": "RU",
+    "sunrise": 1677534301,
+    "sunset": 1677573607
+  },
+  "timezone": 36000,
+  "id": 2022890,
+  "name": "Хабаровск",
+  "cod": 200
+}
